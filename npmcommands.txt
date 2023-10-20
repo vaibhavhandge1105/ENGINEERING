@@ -1,0 +1,17 @@
+sudo apt update
+git clone linkofgit
+ls
+cd sittaflstore
+ls
+cd data
+mv products_data.json products.json
+cd ..
+sudo apt update
+sudo apt install npm
+y
+ok
+npm install
+npm start
+copy public ip
+open browser
+search
